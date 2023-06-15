@@ -11,7 +11,7 @@ export const pizzas = [
     ],
     category: "veg",
     image:
-      "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/momo-mia-veg.5f34ea52c10db4a56881051692a618ca.1.jpg",
+      "https://cdn.urbanpiper.com/media/bizmedia/2022/07/25/Momo-Mia-Pizza-Veg_468x432px.jpg",
     description:
       "Epic combination of signature pan crust, delicious paneer & veg momos topped with spicy Schezwan sauce, onion, capsicum, sweet corn & 100% mozzarella",
   },
@@ -45,7 +45,7 @@ export const pizzas = [
     description:
       "Black Olives, Green Capsicum, Mushroom, Onion, Red Paprika, Sweet Corn",
     image:
-      "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veggie-supreme.403f5e6cf9abb29247a97732c8aae860.1.jpg",
+      "https://vegannook.com/sites/default/files/recipe_images/veggie_supreme.jpg",
   },
   {
     name: "Chicken Supreme",
@@ -59,7 +59,7 @@ export const pizzas = [
     ],
     category: "nonveg",
     image:
-      "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-supreme.f29fa58b7f2a3ec307b6c0b44411f900.1.jpg",
+      "https://tse4.mm.bing.net/th?id=OIP.UI8sv9uZbfMH52MbmcqFPAHaE1&pid=Api&P=0&h=180",
     description: "Herbed Chicken, Schezwan Chicken Meatball, Chicken Tikka",
   },
   {
@@ -74,7 +74,7 @@ export const pizzas = [
     ],
     category: "nonveg",
     image:
-      "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-tikka-supreme.d118fcb7a45549b90fc6313f8b45a9cf.1.jpg",
+      "https://kfoods.com/images1/newrecipeicon/chicken-tikka-pizza_9402.jpg",
     description: "Chicken Tikka, Chicken Malai Tikka, Onion, Red Paprika",
   },
   {
@@ -89,7 +89,7 @@ export const pizzas = [
     ],
     category: "nonveg",
     image:
-      "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-sausage.cc3bb07ed77ec71d0d3a0fbc5cecd084.1.jpg",
+      "https://www.alfrescochicken.com/wp-content/uploads/2019/07/Jenny-With-The-Good-Eats-BBQ-Chicken-Pizza.jpg",
     description: "Chicken Sausage, Onion",
   },
 ];
